@@ -1,0 +1,5 @@
+pretrained/
+README_ori.md
+__pycache__/
+*.py[cod]
+
